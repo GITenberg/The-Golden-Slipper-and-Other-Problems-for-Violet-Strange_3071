@@ -3769,7 +3769,7 @@ to her brother's room and left it before I saw her face."
 
 "Hers is in front on this same floor. Mr. Brooks's is in the rear, and
 can be reached either by the hall or by passing through this room into a
-small one beyond, which we called his den.."
+small one beyond, which we called his den."
 
 "Describe your encounter. Where were you standing when you saw her
 first?"
@@ -4303,12 +4303,13 @@ till morning."
 Even Carlos was taken aback by this. "Oh, well!" said he, "we will give
 you two days."
 
-Mrs. Quintard gasped, then she walked straight up to him. "You will give
-us all the time his condition requires and more, much more. He is the
-real owner of this house, not you. My brother left a will bequeathing
-it to him. You are my nephew's guests, and not he yours. As his
-representative I entreat you and your wife to remain here until you can
-find a home to your mind."
+Mrs. Quintard gasped, then she walked straight up to him.
+
+"You will give us all the time his condition requires and more, much
+more. He is the real owner of this house, not you. My brother left a
+will bequeathing it to him. You are my nephew's guests, and not he
+yours. As his representative I entreat you and your wife to remain here
+until you can find a home to your mind."
 
 The silence seethed. Carlos had a temper of fire and so had his wife.
 But neither spoke, till he had gained sufficient control over himself to
@@ -5587,7 +5588,7 @@ henceforth to be mine.
 "She did not wait for me to speak; she had assumed the dictator's
 attitude at once.
 
-"'I know of what you are thinking,"' said she, 'and it is a subject you
+"'I know of what you are thinking,'" said she, "'and it is a subject you
 may dismiss at once from your mind. Mr. Postlethwaite's child by his
 first wife is coming to live with us. I have expressed my wishes in this
 regard to my lawyer, and there is nothing left to be said. You, with
@@ -6646,7 +6647,7 @@ thoughts for a moment into a different channel.
 
 "Poor child!" he murmured, stretching out his hands by an irresistible
 impulse towards her. But the change was but momentary, and he was soon
-again the stem and determined self-accuser. "Are you going to take me
+again the stern and determined self-accuser. "Are you going to take me
 before a magistrate?" he asked. "If so, I have a few duties to perform
 which you are welcome to witness."
 
@@ -7193,17 +7194,18 @@ glove, which I had no difficulty in recognizing as one of the pair worn
 by his wife this morning. He held it as a tiger might hold his prey or a
 miser his gold, but his set features and sightless eyes betrayed that a
 conflict of emotions was being waged within him, among which tenderness
-had but little share. Though alive as he usually is to every sound,
-he was too absorbed at this moment to notice my presence, though I had
-taken no pains to approach quietly. I therefore stood for a full minute
-watching him, till an irresistible sense of the shame at thus spying
-upon a blind man in his moments of secret anguish compelled me to
-withdraw. But not before I saw his features relax in a storm of
-passionate feeling, as he rained kisses after kisses on the senseless
-kid he had so long held in his motionless grasp. Yet when an hour later
-he entered the dining-room on his wife's arm, there was nothing in his
-manner to show that he had in any way changed in his attitude towards
-her.
+had but little share.
+
+Though alive as he usually is to every sound, he was too absorbed at
+this moment to notice my presence, though I had taken no pains to
+approach quietly. I therefore stood for a full minute watching him, till
+an irresistible sense of the shame at thus spying upon a blind man in
+his moments of secret anguish compelled me to withdraw. But not before I
+saw his features relax in a storm of passionate feeling, as he rained
+kisses after kisses on the senseless kid he had so long held in his
+motionless grasp. Yet when an hour later he entered the dining-room on
+his wife's arm, there was nothing in his manner to show that he had in
+any way changed in his attitude towards her.
 
 The other picture was more tragic still. I was seeking Mrs. Zabriskie in
 her own room, when I caught a fleeting vision of her tall form, with her
@@ -7837,7 +7839,7 @@ man you hated was even then with your wife and that if you would return
 at once to your home you would find him in her company.
 
 "The demon that lurks at the heart of all men, good or bad, thereupon
-took complete possession, of you, and you answered this false friend by
+took complete possession of you, and you answered this false friend by
 saying that you would not return without a pistol. Whereupon he offered
 to take you to his house and give you his. You consented, and getting
 rid of your servant by sending him to Poughkeepsie with your excuses,
@@ -8481,7 +8483,7 @@ been exempt from this seeming fatality. Antagonistic in tastes and
 temperament, they had dragged on an unhappy existence in the old home,
 till both natures rebelled, and a separation ensued which not only
 disunited their lives but sent them to opposite sides of the globe
-never to return again, At least, that was the inference drawn from
+never to return again. At least, that was the inference drawn from
 the peculiar circumstances attending the event. On the morning of one
 never-to-be-forgotten day, John Van Broecklyn, the grandfather of the
 present representative of the family, found the following note from his
@@ -9213,7 +9215,7 @@ when something happened--something so strange, so unexpected, and so
 incredible that I wonder I did not shriek aloud in my terror. The door
 was moving under my hand. It was slowly opening inward. I could feel the
 chill made by the widening crack. Moment by moment this chill increased;
-the gap was growing--a presence was there-a presence before which I sank
+the gap was growing--a presence was there--a presence before which I sank
 in a small heap upon the landing. Would it advance? Had it feet--hands?
 Was it a presence which could be felt?
 
@@ -9384,7 +9386,7 @@ cement painted to match the wood. No one opened the door nor have I
 ever crossed its threshold. Sometimes I think I have been foolish; and
 sometimes I know that I have been very wise. My reason has stood firm;
 how do I know that it would have done so if I had subjected myself to
-the possible discovery that one of both of them might have been saved if
+the possible discovery that one or both of them might have been saved if
 I had disclosed instead of concealed my adventure."
 
 A pause during which white horror had shone on every face; then with a
@@ -9856,7 +9858,7 @@ and would soon pass out of her life leaving her to my love and possibly
 to our father's forgiveness.
 
 But I did not know Theresa. After her husband's death, which occurred
-very soon, she let me come to her and we had a long talk--Shall I ever
+very soon, she let me come to her and we had a long talk. Shall I ever
 forget it or the sight of her beauty in that sordid room? For, account
 for it as you will, the loveliness which had fled under her sense of
 complete isolation had slowly regained its own with the recognition that
